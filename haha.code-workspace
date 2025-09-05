@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../VSvip/OOP test/my-maven-project"
+		},
+		{
+			"path": "../frontend"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"liveServer.settings.multiRootWorkspaceName": "frontend",
+		"java.project.sourcePaths": [
+			"CSS"
+		]
+	}
+}
